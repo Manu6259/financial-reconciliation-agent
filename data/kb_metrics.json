@@ -1,0 +1,15 @@
+{
+  "no_rag": {
+    "n": 69,
+    "accuracy": 0.942,
+    "citation_coverage": 0.0,
+    "accuracy_when_cited": null
+  },
+  "kb_rag": {
+    "n": 69,
+    "accuracy": 0.942,
+    "citation_coverage": 1.0,
+    "accuracy_when_cited": 0.942
+  },
+  "lift": 0.0
+}

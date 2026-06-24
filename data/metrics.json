@@ -1,0 +1,37 @@
+{
+  "model": "mock",
+  "categorization": {
+    "rag_off": {
+      "n": 69,
+      "accuracy": 0.942,
+      "abstention_rate": 0.058,
+      "auto_approve_coverage": 0.942,
+      "auto_approve_accuracy": 1.0,
+      "_confusion": {
+        "Office & Admin -> Needs Review": 4
+      }
+    },
+    "rag_on": {
+      "n": 69,
+      "accuracy": 1.0,
+      "abstention_rate": 0.0,
+      "auto_approve_coverage": 1.0,
+      "auto_approve_accuracy": 1.0,
+      "_confusion": {}
+    }
+  },
+  "reconciliation": {
+    "engine_summary": {
+      "deposits_examined": 37,
+      "by_status": {
+        "matched": 33,
+        "partial_reserve": 4
+      },
+      "auto_matched_pct": 89.2,
+      "reserve_or_short_held": 1780.73
+    },
+    "deposits_with_truth": 37,
+    "correct_payout_matches": 37,
+    "match_accuracy": 1.0
+  }
+}

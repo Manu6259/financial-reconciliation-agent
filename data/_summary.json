@@ -1,0 +1,19 @@
+{
+  "transactions": 192,
+  "payouts": 37,
+  "deposits_to_reconcile": 37,
+  "categories_present": [
+    "Advertising & Marketing",
+    "Amazon Sales",
+    "Cost of Goods Sold",
+    "Internal Transfer",
+    "Office & Admin",
+    "Owner Draw / Capital",
+    "Payroll Expense",
+    "Payroll Taxes",
+    "Professional Services",
+    "Shipping & Fulfillment",
+    "Shopify Sales",
+    "Software & SaaS"
+  ]
+}
