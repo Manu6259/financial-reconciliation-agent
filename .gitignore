@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.cache/
+.streamlit/
+# Generated, reproducible, or large — never commit
+data/*
+!data/.gitkeep
+.DS_Store
