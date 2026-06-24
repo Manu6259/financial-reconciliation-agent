@@ -1,5 +1,7 @@
 # AI Reconciliation & Categorization Agent
 
+![Dashboard demo](assets/demo.gif)
+
 A small, runnable AI system for the messy reality of consumer-brand finance:
 take the raw exports a brand actually has — a bank feed, Shopify / Amazon /
 Stripe payouts, a QuickBooks-style P&L export, a payroll register — **categorize
